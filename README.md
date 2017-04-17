@@ -1,1 +1,1 @@
-# js-dev-env-demo
+# dev-starter
